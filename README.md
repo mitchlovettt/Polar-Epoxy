@@ -1,3 +1,4 @@
+<title>Polar Epoxy<title>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
